@@ -27,4 +27,4 @@ QualysGuard, now known as the Enterprise TruRisk Platform, is a cloud-based vuln
 3.	Reporting and analysis: Prioritize critical vulnerabilities based on scan results.
 4.	Remediation: Measures to eliminate security gaps.
 5.	Continuous monitoring and updates: Regular scans to detect new vulnerabilities and threats.
-6.	
+
