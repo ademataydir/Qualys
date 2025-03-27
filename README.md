@@ -28,3 +28,52 @@ QualysGuard, now known as the Enterprise TruRisk Platform, is a cloud-based vuln
 4.	Remediation: Measures to eliminate security gaps.
 5.	Continuous monitoring and updates: Regular scans to detect new vulnerabilities and threats.
 
+### How to install QUALYS Agent on Windows
+
+Step 1
+
+![image](https://github.com/user-attachments/assets/e1b826b1-869c-431d-875d-e49446cd7f80)
+
+Step 2
+
+![image](https://github.com/user-attachments/assets/2d7d9fcb-dd36-4b1a-80a2-5bea9ecc6f34)
+
+Step 3
+
+![image](https://github.com/user-attachments/assets/0b19fc79-b042-4f5f-867d-d7d79773ab84)
+
+Step 4
+
+![image](https://github.com/user-attachments/assets/8e3fb281-9089-4d4a-8388-1cc2b5b3a3a3)
+
+Step 5
+
+![image](https://github.com/user-attachments/assets/2ea14360-171f-44d2-861b-ce69d1fba15b)
+
+Step 6: The file downloads to our computer with an exe extension. We run CMD as Administrator and follow the steps below.
+
+Step  7: We go to the *Downloads* directory from the CMD screen, paste the code we copied, and the agent gets installed.
+
+Step 8
+
+![image](https://github.com/user-attachments/assets/6d07ceee-133a-44c2-a669-1caefff647c8)
+
+### After successfully completing the installation, we can scan our device.
+
+![image](https://github.com/user-attachments/assets/3e324152-d63a-40d2-8191-d814c8682660)
+
+Step 1
+
+![image](https://github.com/user-attachments/assets/8155dddc-3a86-4893-acd1-c4c83af62b12)
+
+Step 2
+
+![image](https://github.com/user-attachments/assets/9ab0fb62-bf1b-4a3c-9bfa-21c5f9e30420)
+
+Step 3
+
+![image](https://github.com/user-attachments/assets/e4b28b18-72b4-48e3-a6dc-11ed8bd4cb6b)
+
+### Once the scan is finished, we can review the results in detail and also download them as a PDF.
+
+![image](https://github.com/user-attachments/assets/963f6d9e-5792-40d2-8327-e7e297d81c4f)
